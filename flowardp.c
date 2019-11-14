@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "solve.h"
-/*#define PATH*/
+#define PATH
 
 void solve(int n,int **graph){
 	int i,j,k,t;
@@ -61,7 +61,7 @@ void solve(int n,int **graph){
 			if (Q[i][j] != -1){
 				printf("From node %d to node %d: Length of the shortest path is %d\n",i,j,Q[i][j]);
 				#ifdef PATH
-				/*Modified version of this algorithm: en.wikipedia.org/wiki/Floyd–Warshall_algorithm#Path_reconstruction*/
+				/*Modified version of this algorithm: en.wikipedia.org/wiki/Floydâ€“Warshall_algorithm#Path_reconstruction*/
 				if (next[i][j]!=-1){
 					t = i;
 					printf(" Shortest path is: %d",t);
