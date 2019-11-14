@@ -15,8 +15,17 @@ Contains 3 different implementations of Floyd-Warshall algorithm in C:
   <br/> node3->node2 &nbsp;&nbsp; node3->node1 &nbsp;&nbsp; node3->node0 
   <br/>(0 if there is no path)
   
-  <br/><br/>Example:
-  ![alt text](https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/20181207083943/graph-algorithms-shortest-path-2.png)
+  <br/><br/>
+  Example:
+  <br/>
+  5
+  3
+  1 0
+  2 4 7
+  3 0 0 8
+  
+  
+  ![alt text](https://ucarecdn.com/a67cb888-aa0c-424b-8c7f-847e38dd5691/)
    
 
 
