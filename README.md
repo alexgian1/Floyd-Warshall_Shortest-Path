@@ -16,7 +16,7 @@ Contains 3 different implementations of Floyd-Warshall algorithm in C:
   <br/>(0 if there is no path)
   
   <br/><br/>Example:
-  https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/20181207083943/graph-algorithms-shortest-path-2.png
+  ![alt text]https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/20181207083943/graph-algorithms-shortest-path-2.png
    
 
 
