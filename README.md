@@ -11,8 +11,8 @@ Contains 3 different implementations of Floyd-Warshall algorithm in C:
  - Number of nodes
  - Distance of: 
   <br/> node1->node0
-  <br/> node2->node1   node2->node0
-  <br/> node3->node2   node3->node1   node3->node0 
+  <br/> node2->node1 &nbsp;&nbsp; node2->node0
+  <br/> node3->node2 &nbsp;&nbsp; node3->node1 &nbsp;&nbsp; node3->node0 
 
 
  
