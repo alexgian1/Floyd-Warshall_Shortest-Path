@@ -18,11 +18,11 @@ Contains 3 different implementations of Floyd-Warshall algorithm in C:
   <br/><br/>
   Example:
   <br/>
-  5
-  3
-  1 0
-  2 4 7
-  3 0 0 8
+  5 <br/>
+  3 <br/>
+  1 0 <br/>
+  2 4 7 <br/>
+  3 0 0 8 <br/>
   
   
   ![alt text](https://ucarecdn.com/a67cb888-aa0c-424b-8c7f-847e38dd5691/)
